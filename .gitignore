@@ -1,0 +1,15 @@
+# Keil uVision per-user GUI and option state (not source)
+*.uvgui.*
+*.uvopt
+*.__i
+
+# Proteus per-user workspace layout
+*.workspace
+
+# Proteus autosave history - dozens of near-duplicate snapshots
+Project Backups/
+
+# Office/Explorer junk
+Thumbs.db
+desktop.ini
+~$*
